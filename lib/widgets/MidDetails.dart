@@ -26,8 +26,8 @@ class MidDetails extends StatelessWidget {
       decoration: BoxDecoration(
           border: Border.all(
               color: (themeProvider.themeMode == ThemeMode.light)
-                  ? Colors.black
-                  : Colors.white),
+                  ? Colors.black.withOpacity(0.1)
+                  : Colors.white.withOpacity(0.1)),
           borderRadius: const BorderRadius.all(Radius.circular(17))),
 //
 //
