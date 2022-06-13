@@ -8,11 +8,7 @@ favroite Crypto coin list which uses Shared Prefrence and stores data in user's 
 
 ## Demo
 
-
-[![XbBs6u.gif](https://iili.io/XbBs6u.gif)](https://freeimage.host/) 
-
-[![XbBt8x.gif](https://iili.io/XbBt8x.gif)](https://freeimage.host/)
-
-[![XbBpwB.gif](https://iili.io/XbBpwB.gif)](https://freeimage.host/)
+&nbsp;
+[![XbBs6u.gif](https://iili.io/XbBs6u.gif)](https://freeimage.host/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;[![XbBt8x.gif](https://iili.io/XbBt8x.gif)](https://freeimage.host/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![XbBpwB.gif](https://iili.io/XbBpwB.gif)](https://freeimage.host/)
 
 
